@@ -1,0 +1,17 @@
+{
+    "name": "rest-generator",
+    "deps": {
+        "rest-utility_builder": {
+            "owner": "aramtech",
+            "repo": "rest-utility_builder",
+            "update_policy": "major",
+            "version": "0.2.0"
+        }
+    },
+    "public_repo": false,
+    "owner": "aramtech",
+    "private": false,
+    "hash": "pO8UVB8G06etAAp2a5d6XxLpPkkPQAesFlOt0yyM56o",
+    "version": "0.2.1",
+    "description": ""
+}
